@@ -1,10 +1,15 @@
-body {
+html {
   background-image: url("resources/images/bricks.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: black;
 }
 
-nav {
+body {
 	
+}
+
+.site-header {
+	display: grid;
+	gap: 20px;	
 }
