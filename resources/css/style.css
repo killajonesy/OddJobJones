@@ -1,5 +1,6 @@
 body {
-  background-image: url("resources/images/bricks.jpeg");
+  background-image: url("resources/images/bricks.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-color: black;
 }
