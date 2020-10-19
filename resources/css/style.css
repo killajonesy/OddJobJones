@@ -2,10 +2,10 @@ html {
   background-image: url("resources/images/bricks.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-color: black;
+  /* background-color: black; */
 }
 
-.home {
+body {
 	font-color: seashell;
 }
 
@@ -17,4 +17,9 @@ html {
 .h1 {
 	font-family: Verdana; sans-serif;
 	align: center;
+}
+
+p {
+	font-family: Roboto, sans-serif;
+	font-color: seashell;
 }
