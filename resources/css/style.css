@@ -3,14 +3,18 @@ html {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: black;
-  font-color: seashell;
 }
 
-body {
-	
+.body {
+	font-color: seashell;
 }
 
 .site-header {
 	display: grid;
 	gap: 20px;	
+}
+
+.h1 {
+	font-family: Verdana; sans-serif;
+	align: center;
 }
